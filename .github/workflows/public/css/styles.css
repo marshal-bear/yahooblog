@@ -1,0 +1,18 @@
+
+ body{
+	font-family: 'Montserrat', sans-serif;	
+    align-content: center;
+    padding: 1%;
+    border: 1%;
+	}
+
+.logo{
+   width: 50%;
+   height: 50%;
+}
+
+.otext{
+   color: whitesmoke;
+   font-style: italic;
+   text-decoration: underline;
+}
